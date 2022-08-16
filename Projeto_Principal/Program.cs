@@ -1,5 +1,5 @@
 ﻿using Uc9_proj.classes;
-
+/*
 PessoaFisica novaPF = new PessoaFisica();
 Endereco novoEnd = new Endereco();
 
@@ -22,7 +22,7 @@ Nome: {novaPF.nome}
 Endereço: {novaPF.endereco.logadouro}, {novaPF.endereco.numero}
 Maior de idade: {metodoPf.validarDataNascimento (novaPF.dataNascimento)} 
 ");
-
+*/
 
 
 
@@ -35,3 +35,26 @@ Console.WriteLine($"Nome: {novaPF.nome}");
 
 //Console.WriteLine(novaPF.validarDataNascimento(new DateTime(2000,01,01)));
 //Console.WriteLine(novaPF.validarDataNascimento("01-01-2000"));
+
+
+PessoaJuridica metodoPj = new PessoaJuridica ();
+PessoaJuridica novaPj = new PessoaJuridica();
+Endereco novoEndPj = new Endereco();
+
+novaPj.nome = "NomePj";
+novaPj.cnpj = "00000000000000";
+novaPj.razaoSocial = "Razão Social Pj";
+novaPj.rendimento = 8000.50f;
+
+novoEndPj.logadouro = "Alameda Barão de Limeira";
+novoEndPj.numero = 539;
+novoEndPj.complemento = "Senai Informatica";
+novoEndPj.endComercial = true;
+novaPj.endereco = novoEndPj;
+
+Console.WriteLine(@$"
+  Nome: {novaPj.nome}
+  Razão Social: {novaPj.razaoSocial}
+  Cnpj: {novaPj.cnpj}
+  Cnpj é válido: {metodoPj.ValidarCnpj(novaPj.cnpj)};
+");
