@@ -1,0 +1,15 @@
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\bin\Debug\net6.0\Projeto_IMC.exe
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\bin\Debug\net6.0\Projeto_IMC.deps.json
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\bin\Debug\net6.0\Projeto_IMC.runtimeconfig.json
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\bin\Debug\net6.0\Projeto_IMC.dll
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\bin\Debug\net6.0\Projeto_IMC.pdb
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.csproj.AssemblyReference.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.AssemblyInfoInputs.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.AssemblyInfo.cs
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.dll
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\refint\Projeto_IMC.dll
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.pdb
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\Projeto_IMC.genruntimeconfig.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9\Projeto_IMC\obj\Debug\net6.0\ref\Projeto_IMC.dll
