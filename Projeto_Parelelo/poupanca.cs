@@ -24,7 +24,6 @@ namespace projeto_paralelo
         }
         public new string ToString(){
             string texto = base.ToString();
-                           texto += "\nAniversario: " + this.aniversario;
             return texto;               
         }  
     }

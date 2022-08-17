@@ -1,0 +1,15 @@
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\bin\Debug\net6.0\Projeto_Parelelo.exe
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\bin\Debug\net6.0\Projeto_Parelelo.deps.json
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\bin\Debug\net6.0\Projeto_Parelelo.runtimeconfig.json
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\bin\Debug\net6.0\Projeto_Parelelo.dll
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\bin\Debug\net6.0\Projeto_Parelelo.pdb
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.csproj.AssemblyReference.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.AssemblyInfoInputs.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.AssemblyInfo.cs
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.dll
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\refint\Projeto_Parelelo.dll
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.pdb
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\Projeto_Parelelo.genruntimeconfig.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\Uc9_proj\Projeto_Parelelo\obj\Debug\net6.0\ref\Projeto_Parelelo.dll
