@@ -228,10 +228,10 @@ do
           {
               Console.Clear();
               Console.WriteLine(@$"
-                Nome: {cadaItem.nome}
-                Razão Social: {cadaItem.razaoSocial}
-                CNPJ: {cadaItem.cnpj} 
-                Taxa de imposto a ser paga é: {metodoPj.PagarImposto(cadaItem.rendimento).ToString("C")}                           
+                  Nome: {cadaItem.nome}
+                  Razão Social: {cadaItem.razaoSocial}
+                  CNPJ: {cadaItem.cnpj} 
+                  Taxa de imposto a ser paga é: {metodoPj.PagarImposto(cadaItem.rendimento).ToString("C")}                           
               ");
                                             
               Console.WriteLine($"Aperte 'Enter' para continuar");

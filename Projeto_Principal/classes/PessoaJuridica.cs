@@ -54,7 +54,7 @@ namespace Uc9_proj.classes
                     else if (cnpj.Length == 14)
                      {
                         if (cnpj.Substring(8, 4) == "0001")
-                            return true;
+                           return true;
                      }
                 }
                 return false;
@@ -71,11 +71,11 @@ namespace Uc9_proj.classes
 
         public List<PessoaJuridica> Ler()
          {
-              List<PessoaJuridica> listaPj = new List<PessoaJuridica>();
+            List<PessoaJuridica> listaPj = new List<PessoaJuridica>();
 
            if (File.Exists(caminho))
             {
-                    string[] linhas = File.ReadAllLines(caminho);
+                string[] linhas = File.ReadAllLines(caminho);
                 foreach (string cadaLinha in linhas)
                 {      
                     string[] atributos = cadaLinha.Split(",");
