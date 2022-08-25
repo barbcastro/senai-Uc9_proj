@@ -2,7 +2,7 @@ namespace Uc9_proj.classes
 {
   public class Endereco
     {
-        public string? logadouro { get; set; }
+        public string? logradouro { get; set; }
 
         public int? numero { get; set; }
 
