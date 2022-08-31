@@ -43,7 +43,7 @@ do
 =========================================
 |   Escolha uma das opções a seguir:    |
 |_______________________________________|  
-|    1- Cadastar Pessoa Física          |
+|    1- Cadastrar Pessoa Física          |
 |    2- Mostrar Pessoa Física           |
 |               0- Sair                 |
 =========================================
@@ -154,7 +154,7 @@ do
 =========================================
 |   Escolha uma das opções a seguir:    |
 |_______________________________________|  
-|    1- Cadastar Pessoa Física          |
+|    1- Cadastrar Pessoa Física          |
 |    2- Mostrar Pessoa Física           |
 |               0- Sair                 |
 =========================================
