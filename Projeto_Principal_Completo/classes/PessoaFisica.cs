@@ -87,17 +87,16 @@ public class PessoaFisica : Pessoa, IPessoaFisica  {
                 PessoaFisica cadaPf = new PessoaFisica();
                 Endereco cadaEnd = new Endereco();
 
-                cadaPf.nome = atributos[0];
-                cadaPf.cpf = atributos[1];
-                cadaPf.dataNascimento = atributos[2];
-                cadaPf.rendimento = float.Parse(atributos[3]);
-                cadaEnd.logradouro = atributos[4];
-                cadaEnd.numero = int.Parse(atributos[5]);
-                cadaEnd.complemento = atributos[6];
-                cadaEnd.endComercial = bool.Parse(atributos[7]);
-                cadaPf.endereco = cadaEnd;
-                listaPf.Add(cadaPf);
-                 
+                  cadaPf.nome = atributos[0];
+                  cadaPf.cpf = atributos[1];
+                  cadaPf.dataNascimento = atributos[2];
+                  cadaPf.rendimento = float.Parse(atributos[3]);
+                  cadaEnd.logradouro = atributos[4];
+                  cadaEnd.numero = int.Parse(atributos[5]);
+                  cadaEnd.complemento = atributos[6];
+                  cadaEnd.endComercial = bool.Parse(atributos[7]);
+                  cadaPf.endereco = cadaEnd;
+                  listaPf.Add(cadaPf);
               }
               return listaPf;        
       }
