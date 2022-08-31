@@ -154,8 +154,8 @@ do
 =========================================
 |   Escolha uma das opções a seguir:    |
 |_______________________________________|  
-|    1- Cadastrar Pessoa Física          |
-|    2- Mostrar Pessoa Física           |
+|    1- Cadastrar Pessoa Jurídica       |
+|    2- Mostrar Pessoa Jurídica         |
 |               0- Sair                 |
 =========================================
 ");
