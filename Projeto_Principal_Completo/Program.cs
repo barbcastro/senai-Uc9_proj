@@ -260,7 +260,7 @@ do
 
 
 static void BarraCarregamento(string texto, int tempo)
-{
+  {
     Console.BackgroundColor = ConsoleColor.DarkGray;
     //Console.ForegroundColor = ConsoleColor.DarkRed;
 
@@ -271,4 +271,4 @@ static void BarraCarregamento(string texto, int tempo)
           Thread.Sleep(tempo);
        }
     Console.ResetColor();
-}
+  }
